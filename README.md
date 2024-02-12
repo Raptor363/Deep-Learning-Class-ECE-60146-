@@ -1,2 +1,2 @@
-# Deep-Learning-Class-ECE-60146-
+# Deep Learning (ECE 60146)
 My deep learning homework implementations
